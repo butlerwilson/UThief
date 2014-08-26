@@ -1,0 +1,14 @@
+﻿Build started 8/25/2014 2:10:26 PM.
+     1>Project "D:\Clang\UThief\UThief\UThief.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Clang\UThief\Debug\UThief.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"D:\Clang\UThief\Debug\UThief.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Clang\UThief\Debug\UThief.lib" /MACHINE:X86 Debug\UThief.res
+         Debug\LOperate.obj
+         Debug\stdafx.obj
+         Debug\UThief.obj
+         Debug\UThiefDlg.obj
+         UThief.vcxproj -> D:\Clang\UThief\Debug\UThief.exe
+     1>Done Building Project "D:\Clang\UThief\UThief\UThief.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.53

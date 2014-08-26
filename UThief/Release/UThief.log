@@ -1,0 +1,19 @@
+﻿Build started 8/25/2014 3:36:32 PM.
+     1>Project "D:\Clang\UThief\UThief\UThief.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _UNICODE /D UNICODE /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Release\UThief.pch" /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt UThiefDlg.cpp
+         UThiefDlg.cpp
+       Link:
+         C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Clang\UThief\Release\UThief.exe" /INCREMENTAL:NO /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"D:\Clang\UThief\Release\UThief.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Clang\UThief\Release\UThief.lib" /MACHINE:X86 /SAFESEH Release\UThief.res
+         Release\LOperate.obj
+         Release\stdafx.obj
+         Release\UThief.obj
+         Release\UThiefDlg.obj
+         Generating code
+         Finished generating code
+         UThief.vcxproj -> D:\Clang\UThief\Release\UThief.exe
+     1>Done Building Project "D:\Clang\UThief\UThief\UThief.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:29.36
